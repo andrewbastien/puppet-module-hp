@@ -1,4 +1,4 @@
-puppet-module-hp
-================
+# puppet-module-hp #
+===
 
-Puppet module to manage systems manufactured by HP
+Puppet module to manage physical systems manufactured by HP

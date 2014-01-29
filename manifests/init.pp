@@ -5,5 +5,9 @@
 class hp (
 ) {
 
-  # write some code
+  include psp
+  include psp::snmp
+  include psp::hphealth
+  include psp::hpsmh
+  include psp::hpsnmp
 }
